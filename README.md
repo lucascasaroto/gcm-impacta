@@ -1,2 +1,4 @@
 # gcm-impacta
-Trabalhos
+Trabalhos para serem entregues.
+Autor:
+Lucas Casarptp
