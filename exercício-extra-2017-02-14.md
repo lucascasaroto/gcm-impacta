@@ -1,6 +1,6 @@
 Lucas de Souza Casaroto – 1600220 – ADS 3 Semestre.
 
-Exercício Extra entrega 2017-02-21
+Exercício Extra entrega 2017-02-14
 
 Histórico de Versões Apache HTTP Server:
 •	(1995): 0.6.2;
